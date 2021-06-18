@@ -1,0 +1,16 @@
+body{
+  background-color: #CDF0EA;
+  margin: auto;
+  width: 50%;
+  border: 3px solid #73AD21;
+  padding: 40px;
+  display: block;
+}
+button{
+  font-size: 15px;
+  background: #E5D549;
+  background-size: auto;
+  border-color: inherit ;
+  border-width: thick;
+  background-size: contain;
+}
